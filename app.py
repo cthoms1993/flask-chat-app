@@ -7,7 +7,17 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "<h1>Hello World!</h1>"
+    """Main page with instructions"""
+    return "to send a message use /USERNAME/MESSAGE"
+
+@app.route('/<username>')
+def user(username):
+    return "Hi " + username
+
+@app.route('/<username>/<message>')
+def send_message(username, message):
+    return "{0}: {1}".format(username, message)
+
 
 
 if __name__ == '__main__':
