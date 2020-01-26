@@ -25,6 +25,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled3" />
@@ -76,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580046516467">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580046516467" />
     <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580045951058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
