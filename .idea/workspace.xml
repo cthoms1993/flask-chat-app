@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5613568d-d19b-40e9-a52e-a38af37cf8c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580045698029</updated>
-      <workItem from="1580045719872" duration="3511000" />
+      <workItem from="1580045719872" duration="3794000" />
+      <workItem from="1580240550767" duration="833000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580046517413</created>
@@ -97,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580047685729</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="messages appearing in a list">
+      <created>1580049250005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580049250005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,13 +117,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="app.py added routes." />
-    <option name="LAST_COMMIT_MESSAGE" value="app.py added routes." />
+    <MESSAGE value="messages appearing in a list" />
+    <option name="LAST_COMMIT_MESSAGE" value="messages appearing in a list" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580047685065">
+    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580049249279">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580047685065" />
+    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049249279" />
     <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580045951058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -126,28 +137,36 @@
       <screen x="0" y="0" width="1368" height="912" />
     </state>
     <state x="480" y="163" key="Github.UntrackedFilesDialog/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580046461639" />
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580049031038">
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580241305735">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049031038" />
-    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580049031038">
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580241305735" />
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
+    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580241305735">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049031038" />
-    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580049031037">
+    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580241305735" />
+    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
+    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580241305735">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049031037" />
-    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580049031038">
+    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580241305735" />
+    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
+    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580241305735">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049031038" />
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580047694876">
+    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580241305735" />
+    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580049262265">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580047694876" />
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580049262265" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580240553328">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580240553328" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580049031026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580241305720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
