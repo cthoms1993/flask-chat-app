@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580045698029</updated>
       <workItem from="1580045719872" duration="3794000" />
-      <workItem from="1580240550767" duration="4205000" />
+      <workItem from="1580240550767" duration="5245000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580046517413</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580243808294</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chat.html page">
+      <created>1580244864795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580244864795</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +143,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="chat.html page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580243851351">
+    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580244864085">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580243851351" />
+    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244864085" />
     <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580045951058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -152,30 +159,30 @@
       <screen x="0" y="0" width="1368" height="912" />
     </state>
     <state x="480" y="163" key="Github.UntrackedFilesDialog/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580046461639" />
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580244650634">
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580245735146">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244650634" />
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580245735146" />
     <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
-    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580244650634">
+    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580245735146">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244650634" />
+    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580245735146" />
     <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
-    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580244650634">
+    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580245735146">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244650634" />
+    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580245735146" />
     <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
-    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580244650634">
+    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580245735146">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244650634" />
+    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580245735146" />
     <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1580049607346" />
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580244858834">
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580244872013">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244858834" />
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580244872013" />
     <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580240553328">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -186,6 +193,6 @@
     <state x="347" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580243685708" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580244650621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580245735137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
