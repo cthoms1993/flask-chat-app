@@ -35,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled3" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -82,7 +82,7 @@
       <workItem from="1580045719872" duration="3794000" />
       <workItem from="1580240550767" duration="9124000" />
       <workItem from="1580557502547" duration="329000" />
-      <workItem from="1580557843996" duration="2165000" />
+      <workItem from="1580557843996" duration="2872000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580046517413</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580559249562</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added procfile">
+      <created>1580560097353</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580560097353</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,17 +169,18 @@
     <MESSAGE value="chat.html page" />
     <MESSAGE value="reload fix" />
     <MESSAGE value="fixed clearTimeout and cookies issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed clearTimeout and cookies issue" />
+    <MESSAGE value="added procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="added procfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580559248707">
+    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580560096669">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559248707" />
-    <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580558099853">
+    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560096669" />
+    <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580560559041">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="465" y="212" key="FileChooserDialogImpl/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580558099853" />
+    <state x="465" y="212" key="FileChooserDialogImpl/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560559041" />
     <state x="551" y="351" key="Github.ShareDialog" timestamp="1580046454760">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -205,10 +213,10 @@
       <screen x="0" y="0" width="1368" height="912" />
     </state>
     <state x="186" y="100" key="SettingsEditor/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580558106218" />
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580559294615">
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580560104685">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559294615" />
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560104685" />
     <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580557844900">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
