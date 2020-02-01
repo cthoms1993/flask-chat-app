@@ -22,15 +22,21 @@ def index():
     if request.method == "POST":
         session["username"] = request.form["username"]
 
-        if "username" in session:
-            return redirect(session["username"])
+    if "username" in session:
+        return redirect(session["username"])
 
     return render_template("index.html")
 
 
-@app.route('/<username>')
+@app.route('/<username>', methods=["GET", "POST"])
 def user(username):
     """display chat messages"""
+
+    if request.method == "POST":
+        username = session["username"]
+        message = request.form["message"]
+        add_messages(username, message)
+        return redirect(session["username"])
 
     return render_template("chat.html", username=username, chat_messages=messages)
 
