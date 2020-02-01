@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5613568d-d19b-40e9-a52e-a38af37cf8c5" name="Default Changelist" comment="reload fix">
+    <list default="true" id="5613568d-d19b-40e9-a52e-a38af37cf8c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/chat.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -83,7 +82,7 @@
       <workItem from="1580045719872" duration="3794000" />
       <workItem from="1580240550767" duration="9124000" />
       <workItem from="1580557502547" duration="329000" />
-      <workItem from="1580557843996" duration="1381000" />
+      <workItem from="1580557843996" duration="2165000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580046517413</created>
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580245818867</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed clearTimeout and cookies issue">
+      <created>1580559249562</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580559249562</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,13 +161,14 @@
     <MESSAGE value="added time stamp." />
     <MESSAGE value="chat.html page" />
     <MESSAGE value="reload fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="reload fix" />
+    <MESSAGE value="fixed clearTimeout and cookies issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed clearTimeout and cookies issue" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580247050841">
+    <state x="306" y="54" key="CommitChangelistDialog2" timestamp="1580559248707">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580247050841" />
+    <state x="306" y="54" key="CommitChangelistDialog2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559248707" />
     <state x="465" y="212" key="FileChooserDialogImpl" timestamp="1580558099853">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -174,34 +181,34 @@
       <screen x="0" y="0" width="1368" height="912" />
     </state>
     <state x="480" y="163" key="Github.UntrackedFilesDialog/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580046461639" />
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580559125467">
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom" timestamp="1580560015059">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559125467" />
+    <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560015059" />
     <state width="1326" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1580396962364" />
-    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580559125467">
+    <state width="1326" height="239" key="GridCell.Tab.0.center" timestamp="1580560015058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559125467" />
+    <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560015058" />
     <state width="1326" height="239" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1580396962364" />
-    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580559125467">
+    <state width="1326" height="239" key="GridCell.Tab.0.left" timestamp="1580560015058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559125467" />
+    <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560015058" />
     <state width="1326" height="239" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1580396962364" />
-    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580559125467">
+    <state width="1326" height="239" key="GridCell.Tab.0.right" timestamp="1580560015058">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559125467" />
+    <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580560015058" />
     <state width="1326" height="239" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1580396962364" />
     <state x="186" y="100" key="SettingsEditor" timestamp="1580558106218">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
     <state x="186" y="100" key="SettingsEditor/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580558106218" />
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580245825661">
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2" timestamp="1580559294615">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
-    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580245825661" />
+    <state x="277" y="190" key="Vcs.Push.Dialog.v2/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580559294615" />
     <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580557844900">
       <screen x="0" y="0" width="1368" height="912" />
     </state>
@@ -216,6 +223,6 @@
     <state x="347" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1368.912/2736.0.1280.1024@0.0.1368.912" timestamp="1580243685708" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580559125449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_chat_app$flask_chat_app.coverage" NAME="flask-chat-app Coverage Results" MODIFIED="1580559736630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
